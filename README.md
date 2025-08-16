@@ -55,3 +55,30 @@ Perfect for keeping track of pack health, prop condition, and flight notes betwe
 3. After editing, select **[ Save ]** at the bottom to store your entry.
 
 **Example log file:**
+
+2025-08-16 05:44 | Pack: 3 (Bad) | Prop: 5146 (Chipped) | Note: Wobbly
+2025-08-16 05:58 | Pack: 4 (Good) | Prop: 5040 (New) | Note: Smooth
+
+
+
+---
+
+## 📥 Installation for All Scripts
+1. Download this repository:
+   - **Option A:** Click the green **Code** button → **Download ZIP**
+   - **Option B:** Clone via Git (`git clone https://github.com/<your-username>/edgetx-lua-scripts-bw.git`)
+2. Extract and copy the `SCRIPTS` folder to the root of your EdgeTX SD card.
+3. Access scripts from:
+   - **Tools menu** (for `/SCRIPTS/TOOLS/`)
+   - **Model scripts** (for `/SCRIPTS/MIXES/`)
+   - **Telemetry screens** (for `/SCRIPTS/TELEMETRY/`)
+
+---
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE) — feel free to use, modify, and share, but please credit this repository.
+
+---
+
+✈️ **More scripts coming soon!** Stay tuned for new tools, telemetry screens, and helpers for your EdgeTX radio.
+
